@@ -111,11 +111,5 @@ npm start
 After this your web application should run on the local host and after capturing the photo it should automatically detect your facial features and on submit, it should redirect to the recommended products page.
 
 
-# Published Paper
 
-This project has been published in an IEEE paper. For more details and in-depth information, please refer to the corresponding paper:
-
-[Efficient Net-based Expert System for Personalized Facial Skincare Recommendations](https://ieeexplore.ieee.org/document/10142790)
-
-Feel free to explore the paper for a comprehensive understanding of the project and its contributions.
 
